@@ -22,7 +22,7 @@ nodes:
   - hostname: "amusement-machine1"
     ipAddress: "192.168.1.38"
     installDiskSelector:
-      serial: "nvme0n1"
+      serial: "50026B73831CDD8A"
     machineSpec:
       secureboot: false
     talosImageURL: factory.talos.dev/installer/ee827ee541fb06e742e6d183f4e3c1a62a2d63d945cbbd0b1e76da9221af9d27
